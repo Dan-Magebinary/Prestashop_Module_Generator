@@ -3,7 +3,7 @@
     <option name="myName" value="Project Default" />
     <option name="myLocal" value="false" />
     <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-      <option name="CODING_STANDARD" value="Custom" />
+      <option name="CODING_STANDARD" value="Prestashop" />
       <option name="CUSTOM_RULESET_PATH" value="C:/Program Files (x86)/EasyPHP-DevServer-13.1VC9/binaries/php/php_runningversion/pear/PHP/CodeSniffer/Standards/Prestashop" />
     </inspection_tool>
   </profile>

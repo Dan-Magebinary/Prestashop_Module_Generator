@@ -2,6 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bbccaa-d373-4404-a4e8-6a2b82ee4d4c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/admin/default.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/front/default.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/hooks/default.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/front/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/img/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/override/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/translations/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/front/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/hooks/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mgenerator/backward_compatibility/index.php" afterPath="$PROJECT_DIR$/mgenerator/backward_compatibility/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mgenerator/mgenerator.php" afterPath="$PROJECT_DIR$/mgenerator/mgenerator.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Prestashop Module Generator.iws" />
@@ -24,17 +45,7 @@
     <favorites_list name="Prestashop Module Generator" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mgenerator.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mgenerator/mgenerator.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="583">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -44,9 +55,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/mgenerator/img/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/js/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/override/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/translations/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/views/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/admin/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/front/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/hooks/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/admin/default.tpl" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/front/default.tpl" />
+        <option value="$PROJECT_DIR$/mgenerator/views/templates/hooks/default.tpl" />
+        <option value="$PROJECT_DIR$/mgenerator/controllers/admin/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/controllers/front/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php" />
         <option value="$PROJECT_DIR$/mgenerator/mgenerator.php" />
       </list>
     </option>
@@ -84,7 +115,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -117,7 +148,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Prestashop Module Generator" />
+              <option name="myItemId" value="Prestashop_Module_Generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mgenerator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -127,28 +162,28 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="304" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="304" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="304" />
+    <property name="options.lastSelected" value="editor" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="304" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="979" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="978" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="304" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="303" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="304" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="304" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="304" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="978" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="304" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="303" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="304" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="979" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -201,23 +236,23 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39915523" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2529349" sideWeight="0.60177976" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39822024" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -241,9 +276,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mgenerator/override/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/translations/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/backward_compatibility/backward.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/front/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/hooks/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/admin/default.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/front/default.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/hooks/default.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="0.23408625" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/controllers/front/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/controllers/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/controllers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="296" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/mgenerator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="517">
+        <state line="77" column="25" selection-start="1470" selection-end="1470" vertical-scroll-proportion="0.60946745" vertical-offset="1795" max-vertical-offset="2730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.6745562" vertical-offset="0" max-vertical-offset="845">
           <folding />
         </state>
       </provider>
