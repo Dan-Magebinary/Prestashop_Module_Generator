@@ -2,26 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bbccaa-d373-4404-a4e8-6a2b82ee4d4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/admin/default.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/front/default.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/hooks/default.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/front/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/css/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/fonts/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/img/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/js/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/override/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/translations/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/front/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/views/templates/hooks/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mgenerator/backward_compatibility/index.php" afterPath="$PROJECT_DIR$/mgenerator/backward_compatibility/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/translations/cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/translations/en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/translations/es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/translations/fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mgenerator/upgrade/index.php" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\backward_compatibility\Context.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\backward_compatibility\Display.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\backward_compatibility\backward.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\backward_compatibility\backward.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\chen\PhpstormProjects\Prestashop Module Generator\mgenerator\js\bootstrap.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mgenerator/mgenerator.php" afterPath="$PROJECT_DIR$/mgenerator/mgenerator.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -45,7 +44,17 @@
     <favorites_list name="Prestashop Module Generator" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="mgenerator.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mgenerator/mgenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="0" selection-start="1896" selection-end="1896" vertical-scroll-proportion="1.5575418" vertical-offset="0" max-vertical-offset="1615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -66,7 +75,6 @@
         <option value="$PROJECT_DIR$/mgenerator/img/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/js/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/override/index.php" />
-        <option value="$PROJECT_DIR$/mgenerator/translations/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/views/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/views/templates/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/views/templates/admin/index.php" />
@@ -78,6 +86,8 @@
         <option value="$PROJECT_DIR$/mgenerator/controllers/admin/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/controllers/front/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php" />
+        <option value="$PROJECT_DIR$/mgenerator/translations/index.php" />
+        <option value="$PROJECT_DIR$/mgenerator/upgrade/index.php" />
         <option value="$PROJECT_DIR$/mgenerator/mgenerator.php" />
       </list>
     </option>
@@ -148,11 +158,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Prestashop_Module_Generator" />
+              <option name="myItemId" value="Prestashop Module Generator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mgenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop Module Generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop Module Generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mgenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop Module Generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prestashop Module Generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mgenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="translations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,23 +284,23 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2529349" sideWeight="0.60177976" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39822024" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25260416" sideWeight="0.60177976" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39822024" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -278,112 +324,114 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mgenerator/override/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mgenerator/translations/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mgenerator/backward_compatibility/backward.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="515">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/front/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/hooks/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/admin/default.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/front/default.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="228" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/views/templates/hooks/default.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="0.23408625" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="286" selection-end="286" vertical-scroll-proportion="0.23408625" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/controllers/front/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/controllers/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487">
-          <folding />
-        </state>
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35112935" vertical-offset="0" max-vertical-offset="487" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/controllers/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="296" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
+        <state line="0" column="0" selection-start="0" selection-end="296" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.6745562" vertical-offset="0" max-vertical-offset="845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/translations/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/upgrade/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="296" selection-end="296" vertical-scroll-proportion="0.17094973" vertical-offset="0" max-vertical-offset="895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/translations/fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/translations/es.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/translations/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mgenerator/translations/cn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mgenerator/mgenerator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="25" selection-start="1470" selection-end="1470" vertical-scroll-proportion="0.60946745" vertical-offset="1795" max-vertical-offset="2730">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mgenerator/controllers/front/mgenerator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.6745562" vertical-offset="0" max-vertical-offset="845">
+        <state line="82" column="0" selection-start="1896" selection-end="1896" vertical-scroll-proportion="1.5575418" vertical-offset="0" max-vertical-offset="1615">
           <folding />
         </state>
       </provider>

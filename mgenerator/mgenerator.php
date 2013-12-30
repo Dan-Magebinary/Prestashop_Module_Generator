@@ -1,6 +1,7 @@
 <?php
 
-if (!defined('_PS_VERSION_'))exit;
+if (!defined('_PS_VERSION_'))
+	exit;
 
 class BlockCart extends Module
 {
@@ -50,24 +51,25 @@ class BlockCart extends Module
 			'email'=>'dan@magebin.com',
 			'copyright' => 'powered by magebin.co 1980-2014',
 			'version'=>'1.0',
-			'compatibility'=>array('1.4x','1.5x','1.6x'),
+			'compatibility'=>array('min'=>'1.4','max'=>'1.6'),
 			//'translations'=>array('en','cn'),
 			'name'=>'module',
 			'display'=>'Magebin.com Auto Generated Module',
 			'description'=>'Magebin.com Auto Generated Module',
-			'tab'=>array('payments_gateways'),
+			'tab'=>array('administration','advertising_marketing','analytics_stats','billing_invoicing','checkout',
+				'content_management','emailing','export','front_office_features','i18n_localization',
+				'market_place','merchandizing','migration_tools','mobile','others','payments_gateways','payment_security','pricing_promotion','quick_bulk_update','search_filter','seo',
+				'shipping_logistics','slideshows','smart_shopping','social_networks'),
 			'is_configurable'=>true,
 			'need_instance'=>false,
 		);
 
-		foreach($default_info as $key=>$value)
+		foreach ($default_info as $key => $value)
 		{
-			if(array_key_exists($key,$new_info))
+			if (array_key_exists($key, $new_info))
 			{
-				if(gettype($new_info[$key]) == gettype($value))
-				{
-					$default_info[$key]=$new_info[$key];
-				}
+				if (gettype($new_info[$key]) == gettype($value))
+					$default_info[$key] = $new_info[$key];
 			}
 		}
 		return $default_info;
@@ -75,7 +77,9 @@ class BlockCart extends Module
 
 	public function generate($info)
 	{
-		$datasource = "";
+		$source = '';
+
+		return $source;
 
 
 	}
